@@ -1,0 +1,10 @@
+.nav{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+.nav a{
+    margin-right: 1em;
+    color: aliceblue;
+}
